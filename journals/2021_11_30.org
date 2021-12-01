@@ -2,5 +2,8 @@
 * DONE Add graphs onto [[Global Energy Outlook]]
 *
 * DONE Workout at Fitness Frist - booked 17:30 to 18:45
+:PROPERTIES:
+:collapsed: true
+:END:
 ** Settle credit card details at counter
 * DONE Dinner after Workout
