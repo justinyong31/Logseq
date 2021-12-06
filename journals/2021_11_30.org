@@ -1,5 +1,5 @@
-* DONE Write up extra section for [[Global Energy Outlook]] for [[611237 Wood- BSR Dung Quat Refinery Study]]
-* DONE Add graphs onto [[Global Energy Outlook]]
+* DONE Write up extra section for [[Section 3: Global Energy Outlook]] for [[611237 Wood- BSR Dung Quat Refinery Study]]
+* DONE Add graphs onto [[Section 3: Global Energy Outlook]]
 *
 * DONE Workout at Fitness Frist - booked 17:30 to 18:45
 :PROPERTIES:
